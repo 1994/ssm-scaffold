@@ -39,3 +39,5 @@
  - log4j.properties:log4j 配置文件
  - mvc-dispatcher-servlet.xml:SpringMVC配置文件
 
+##快速上手
+http://1994.github.io/2015/10/14/ssm-scaffold/

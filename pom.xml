@@ -9,12 +9,12 @@
     <url>http://maven.apache.org</url>
 
     <properties>
-        <junit-version>3.8.1</junit-version>
-        <spring-version>4.2.1.RELEASE</spring-version>
-        <mybatis-version>3.3.0</mybatis-version>
-        <mybatis-spring-version>1.2.3</mybatis-spring-version>
-        <druid-version>1.0.15</druid-version>
-        <fastjson-version>1.2.7</fastjson-version>
+        <junit-version>4.12</junit-version>
+        <spring-version>4.3.2.RELEASE</spring-version>
+        <mybatis-version>3.4.1</mybatis-version>
+        <mybatis-spring-version>1.3.0</mybatis-spring-version>
+        <druid-version>1.0.24</druid-version>
+        <fastjson-version>1.2.16</fastjson-version>
         <mysql-connection-version>5.1.6</mysql-connection-version>
         <mybatis-generator-version>1.3.2</mybatis-generator-version>
         <pagehelper-version>4.0.1</pagehelper-version>

@@ -1,7 +1,7 @@
 # ssm-scaffold
 这是一个SpringMVC+Mybatis 脚手架，方便平时的开发使用，也可作为新手的学习项目。
 
-##依赖
+## 依赖
  - Spring :4.2.1.RELEASE
  - mybatis:3.3.0
  - mybatis-spring:1.2.3
@@ -39,5 +39,5 @@
  - log4j.properties:log4j 配置文件
  - mvc-dispatcher-servlet.xml:SpringMVC配置文件
 
-##快速上手
+## 快速上手
 http://1994.github.io/2015/10/14/ssm-scaffold/
